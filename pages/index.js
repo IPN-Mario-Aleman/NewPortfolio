@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Layout>
       <div className={styles.container}>
-        asdasd
+        This is a new a content for my portfolio.
       </div>
     </Layout>
   )
